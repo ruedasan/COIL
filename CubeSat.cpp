@@ -1,3 +1,5 @@
+// Grupo Coil 2023-2
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_BMP280.h>
