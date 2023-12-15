@@ -1,4 +1,7 @@
 // Grupo Coil 2023-2
+// Adaptado de: https://www.instructables.com/Connecting-MPU6050-With-ESP32/
+// Adaptado de: https://github.com/ahmadlogs/arduino-ide-examples/blob/main/esp32-gps-tracker/esp32-gps-tracker.ino
+// Adaptado de: https://mischianti.org/gy-273-qmc5883l-clone-hmc5883l-magnetometer-for-arduino-esp8266-and-esp32/#google_vignette
 
 #include <Arduino.h>
 #include <Wire.h>
